@@ -16,10 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About Me
-Hi there. I am currently pursuing an MRes degree in Medical Robotics and Image-Guided Intervention from Hamlyn Centre, Department of Medicine, Imperial College London, starting in Sep 2025. My research interests include Computer Vision for Medical Imaging and Vision-Language Model.
+# 👋 About Me
 
-In July 2025, I completed my BSc in Information and Computing Science at Xi’an Jiaotong-Liverpool University (XJTLU) with a First Class Degree with Honours, including a one-year research exchange in Computer Science at the University of Liverpool, where I also achieved First Class Honours. I have been fortunate to be supervised by Dr.Yu Liu and served as a Research Assistant during my undergraduate and research training, focusing on Human-Computer Interaction (HCI) and Data Visualization on Mobile Devices.
+Hi there! I am currently pursuing an MRes degree in Medical Robotics and Image-Guided Intervention at the [Hamlyn Centre](https://www.imperial.ac.uk/hamlyn-centre/), Department of Medicine, **Imperial College London**, starting from September 2025. My research interests include **Computer Vision for Medical Imaging** and **Vision-Language Models**.
+
+In July 2025, I completed my BSc in Information and Computing Science at [Xi’an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), graduating with a First Class Degree with Honours, including a one-year research exchange in Computer Science at [the University of Liverpool](https://www.liverpool.ac.uk/), where I also achieved First Class Honours. I have been fortunate to be supervised by [Dr.Yu Liu](https://scholar.xjtlu.edu.cn/en/persons/YuLiu02/) and to serve as a Research Assistant during my undergraduate and research training, focusing on **Human–Computer Interaction (HCI)** and **Data Visualization on Mobile Devices**.
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
