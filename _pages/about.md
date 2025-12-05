@@ -38,6 +38,7 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 
 <div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">EuroVis 2026 (under review)</div>
+<img src='images/eurovis_activity_rings.png' alt="Interpreting Multi-Metric Data Visualization on Smartwatches" width="100%">
 </div></div>
 <div class='paper-box-text' markdown="1">
 
