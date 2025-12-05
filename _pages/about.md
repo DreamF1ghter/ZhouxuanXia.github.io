@@ -30,24 +30,59 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 - *Sep 2021 – Jul 2025*, BSc in Information and Computing Science, First Class Honours, Xi’an Jiaotong-Liverpool University (XJTLU)
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *Jun. 2025*: &nbsp;🎉🎉 My undergraduate thesis “Visualizing on the Wrist: Impact of Motion, Dial Shape and Visualization Type on Smartwatch” was accepted to **IEEE VIS 2025**.
+- *Jul. 2025*: &nbsp;🎉🎉 Our paper “Comparative Study of Four Visualization Techniques and Positional Variations for Displaying Exercise Data on Smartwatches” was accepted to **Computer Graphics Forum (CGF)**.
+- *Feb. 2023*: &nbsp;🎉🎉 Our paper “A Study on Activity Visualization for Smart Watches” was accepted to **IEEE PacificVis 2023**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">IEEE VIS 2025</div>
+<img src='images/vis2025_wrist.png' alt="Visualizing on the Wrist" width="100%">
+</div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Visualizing on the Wrist: Impact of Motion, Dial Shape and Visualization Type on Smartwatch](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Zhouxuan Xia**, Fengyuan Liao, Jinyuan Du, Yu Liu  
+IEEE VIS, 2025.  
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- Smartwatch visualization study examining how motion, dial shape and visualization type jointly influence legibility and interpretation on the wrist.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+</div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">CGF 2025</div>
+<img src='images/cgf2025_exercise.png' alt="Comparative Study of Four Visualization Techniques" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Comparative Study of Four Visualization Techniques and Positional Variations for Displaying Exercise Data on Smartwatches](#)
+
+Yu Liu, **Zhouxuan Xia**, Jinyuan Du  
+*Computer Graphics Forum* (CGF), 2025.  
+
+- Comparative evaluation of four visualization techniques and item positions for exercise data on smartwatches, providing design guidelines for fitness-oriented wearable displays.
+
+</div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">PacificVis 2023</div>
+<img src='images/pvis2023_activity.png' alt="Activity Visualization for Smart Watches" width="100%">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Study on Activity Visualization for Smart Watches](#)
+
+**Zhouxuan Xia**, Yu Liu, Fabiola Polidoro  
+IEEE PacificVis, 2023.  
+
+- Surveys activity visualizations from 80 commercial smartwatches and 41 users, highlighting how familiarity drives preferences for radial bar charts.
+
+</div></div>
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
