@@ -44,7 +44,7 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 [Interpreting Multi-Metric Data Visualization on Smartwatches: A Case Study of Activity Rings](#)
 
 Yu Liu, **Zhouxuan Xia**, Xinyuan Zhang, Jiazhe Huang, Jinyuan Du, Teng Ma  
-Submitted to *The Eurographics Conference on Visualization (EuroVis 2026)*, under review.  
+- Submitted to *The Eurographics Conference on Visualization (EuroVis 2026)*, under review.  
 
 </div></div>
 
@@ -94,7 +94,5 @@ IEEE Pacific Visualization Conference (PacificVis), Seoul, Korea, 2023.
 - Surveys activity visualizations from 80 commercial smartwatches and 41 users, highlighting how familiarity drives preferences for radial bar charts.
 
 </div></div>
+…and more to come in the future.
 
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
