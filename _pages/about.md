@@ -37,6 +37,18 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div>
+<div class="badge">EuroVis 2026 (under review)</div>
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Interpreting Multi-Metric Data Visualization on Smartwatches: A Case Study of Activity Rings](#)
+
+Yu Liu, **Zhouxuan Xia**, Xinyuan Zhang, Jiazhe Huang, Jinyuan Du, Teng Ma  
+Submitted to *The Eurographics Conference on Visualization (EuroVis)*, under review.  
+
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div>
 <div class="badge">IEEE VIS 2025</div>
 <img src='images/vis2025_wrist.png' alt="Visualizing on the Wrist" width="100%">
 </div></div>
