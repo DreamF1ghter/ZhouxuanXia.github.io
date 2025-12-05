@@ -42,10 +42,10 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Visualizing on the Wrist: Impact of Motion, Dial Shape and Visualization Type on Smartwatch](#)
+[Visualizing on the Wrist: Impact of Motion, Dial Shape and Visualization Type on Smartwatch](https://www.researchgate.net/publication/396776306_Visualizing_on_the_Wrist_Impact_of_Motion_Dial_Shape_and_Visualization_Type_on_Smartwatch)
 
 **Zhouxuan Xia**, Fengyuan Liao, Jinyuan Du, Yu Liu  
-IEEE VIS, 2025.  
+IEEE Visualization (VIS), Vienna, Austria, 2025.  
 
 - Smartwatch visualization study examining how motion, dial shape and visualization type jointly influence legibility and interpretation on the wrist.
 
@@ -58,7 +58,7 @@ IEEE VIS, 2025.
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[Comparative Study of Four Visualization Techniques and Positional Variations for Displaying Exercise Data on Smartwatches](#)
+[Comparative Study of Four Visualization Techniques and Positional Variations for Displaying Exercise Data on Smartwatches](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.70224)
 
 Yu Liu, **Zhouxuan Xia**, Jinyuan Du  
 *Computer Graphics Forum* (CGF), 2025.  
@@ -74,10 +74,10 @@ Yu Liu, **Zhouxuan Xia**, Jinyuan Du
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[A Study on Activity Visualization for Smart Watches](#)
+[A Study on Activity Visualization for Smart Watches](https://arxiv.org/pdf/2407.02012)
 
 **Zhouxuan Xia**, Yu Liu, Fabiola Polidoro  
-IEEE PacificVis, 2023.  
+IEEE Pacific Visualization Conference (PacificVis), Seoul, Korea, 2023.  
 
 - Surveys activity visualizations from 80 commercial smartwatches and 41 users, highlighting how familiarity drives preferences for radial bar charts.
 
