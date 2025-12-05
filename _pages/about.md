@@ -26,7 +26,7 @@ My recent work focuses on building multimodal frameworks and agentic workflows a
 
 # 📖 Educations
 - *Sep 2025 – Present*, MRes in Medical Robotics and Image-Guided Intervention, Imperial College London
-- *Sep 2023 - Jul 2024* BSc in Computer Science, First Class Honours, University of Liverpool
+- *Sep 2023 - Jul 2024*, BSc in Computer Science, First Class Honours, University of Liverpool
 - *Sep 2021 – Jul 2025*, BSc in Information and Computing Science, First Class Honours, Xi’an Jiaotong-Liverpool University (XJTLU)
 
 # 🔥 News
